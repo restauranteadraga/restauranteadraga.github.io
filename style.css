@@ -776,7 +776,7 @@ a.read-more {
 .reservation-button-area-bg,
 .blog-area-bg,
 .footer-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions_area_bg_1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("img/promo/promotions_area_bg_1.jpg") no-repeat scroll center center / cover;
     height: 100%;
     left: 0;
     position: absolute;
@@ -963,7 +963,7 @@ a.read-more {
 }
 
 .reservation-button-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions_area_bg_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("img/promo/promotions_area_bg_2.jpg") no-repeat scroll center center / cover;
 }
 .resarvation-from-button.text-center h2 {
     font-size: 50px;
@@ -1168,7 +1168,7 @@ option {
 }
 
 .blog-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions_area_bg_3.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("img/promo/promotions_area_bg_3.jpg") no-repeat scroll center center / cover;
 }
 
 .post-details {
@@ -1319,7 +1319,7 @@ a.post-meta-button {
 }
 
 .footer-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/footer_bg_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("img/slide/footer_bg_2.jpg") no-repeat scroll center center / cover;
 }
 
 .footer-top {
@@ -1987,7 +1987,7 @@ ul.blog-instagram-feed-widget li {
 -----------------------------------*/
 
 .top-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/slide_1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("img/slide/slide_1.jpg") no-repeat scroll center center / cover;
     height: 100%;
     left: 0;
     position: absolute;
