@@ -49,8 +49,35 @@
       <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
+     <style>
+      body {
+          margin: 0;
+          padding: 0;
+      }
 
+      .top-area-1 {
+          position: relative;
+          height: 100vh; /* 100% da altura da viewport */
+          overflow: hidden;
+      }
+
+      .video-bg {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+      }
+
+      video {
+          width: 100%;
+          height: 100%;
+          object-fit: cover; /* Garante que o vídeo cubra completamente a área especificada */
+      }
+  </style>
+  </head>
+  
   <body>
     <!--[if lt IE 8]>
       <p class="browserupgrade">
